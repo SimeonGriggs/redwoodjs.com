@@ -26,4 +26,4 @@ On the Web side, with webpack as your target, you can do one of three things:
     ```
     These will also be substituted in your code as in the first option above.
 
-3. Define them in your `.env` file. This will only work in the development environment and will either cause an error or fail silently in production, depending on where your ENV var is referenced.
+3. Define them in your `.env` file. This will only work in the development environment and will either cause an error or fail silently in production, depending on where your ENV var is referenced. 
